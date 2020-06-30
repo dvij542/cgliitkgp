@@ -5,7 +5,7 @@ link: https://play.google.com/store/apps/details?id=com.CGL.Holiday_hops&fbclid=
 layout: default
 modal-id: 6
 date: 2020-06-25
-img: risky.jpg
+img: holiday.jpg
 thumbnail: holiday.jpg
 alt: image-alt
 project-date: June 2020
