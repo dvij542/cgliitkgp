@@ -2,7 +2,7 @@
 title: Velocity
 subtitle: Endless Runner
 layout: default
-url: www.google.com
+link: www.google.com
 modal-id: 1
 date: 2019-08-05
 img: velocity.jpg

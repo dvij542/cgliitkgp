@@ -2,7 +2,7 @@
 title: Space Mania
 subtitle: Puzzle Adventure
 layout: default
-url: www.google.com
+link: www.google.com
 modal-id: 5
 date: 2020-06-03
 img: space.png

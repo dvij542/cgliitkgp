@@ -2,7 +2,7 @@
 title: The Passion Followers
 subtitle: Hyper-Casual
 layout: default
-url: www.google.com
+link: www.google.com
 modal-id: 4
 date: 2020-04-23
 img: pass.jpg

@@ -2,7 +2,7 @@
 title: The Perfect Theif
 subtitle: Puzzle Platformer
 layout: default
-url: www.google.com
+link: www.google.com
 modal-id: 2
 date: 2020-03-19
 img: thief.jpg
